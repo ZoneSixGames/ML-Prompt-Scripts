@@ -1,3 +1,6 @@
 [submodule "Simple_Prompt_Generator"]
 	path = Simple_Prompt_Generator
 	url = https://github.com/WiNE-iNEFF/Simple_Prompt_Generator
+[submodule "Art-Prompt-Generator"]
+	path = Art-Prompt-Generator
+	url = https://github.com/marikodes/Art-Prompt-Generator
