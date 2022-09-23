@@ -4,3 +4,6 @@
 [submodule "Art-Prompt-Generator"]
 	path = Art-Prompt-Generator
 	url = https://github.com/marikodes/Art-Prompt-Generator
+[submodule "noodle-soup-prompts"]
+	path = noodle-soup-prompts
+	url = https://github.com/WASasquatch/noodle-soup-prompts
