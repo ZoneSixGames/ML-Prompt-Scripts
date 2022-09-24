@@ -13,3 +13,6 @@
 [submodule "gpt-scrolls"]
 	path = gpt-scrolls
 	url = https://github.com/maraoz/gpt-scrolls
+[submodule "structured-prompt-generator"]
+	path = structured-prompt-generator
+	url = https://github.com/Skquark/structured-prompt-generator
