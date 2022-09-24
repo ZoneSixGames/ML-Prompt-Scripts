@@ -19,3 +19,6 @@
 [submodule "Creative-Writing-Prompt-Generator"]
 	path = Creative-Writing-Prompt-Generator
 	url = https://github.com/tedible/Creative-Writing-Prompt-Generator
+[submodule "python_prompt_generator"]
+	path = python_prompt_generator
+	url = https://github.com/Shreya-M03/python_prompt_generator
