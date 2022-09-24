@@ -7,3 +7,6 @@
 [submodule "noodle-soup-prompts"]
 	path = noodle-soup-prompts
 	url = https://github.com/WASasquatch/noodle-soup-prompts
+[submodule "PromptPapers"]
+	path = PromptPapers
+	url = https://github.com/thunlp/PromptPapers
