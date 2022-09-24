@@ -16,3 +16,6 @@
 [submodule "structured-prompt-generator"]
 	path = structured-prompt-generator
 	url = https://github.com/Skquark/structured-prompt-generator
+[submodule "Creative-Writing-Prompt-Generator"]
+	path = Creative-Writing-Prompt-Generator
+	url = https://github.com/tedible/Creative-Writing-Prompt-Generator
