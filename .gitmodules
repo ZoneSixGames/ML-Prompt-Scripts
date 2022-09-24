@@ -10,3 +10,6 @@
 [submodule "PromptPapers"]
 	path = PromptPapers
 	url = https://github.com/thunlp/PromptPapers
+[submodule "gpt-scrolls"]
+	path = gpt-scrolls
+	url = https://github.com/maraoz/gpt-scrolls
