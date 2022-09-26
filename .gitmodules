@@ -25,3 +25,6 @@
 [submodule "personalized-catchphrase-generator"]
 	path = personalized-catchphrase-generator
 	url = https://github.com/vnguye34/personalized-catchphrase-generator
+[submodule "PromptGenerator"]
+	path = PromptGenerator
+	url = https://github.com/Cfhhunt/PromptGenerator/
