@@ -28,3 +28,6 @@
 [submodule "PromptGenerator"]
 	path = PromptGenerator
 	url = https://github.com/Cfhhunt/PromptGenerator/
+[submodule "drawing-prompt"]
+	path = drawing-prompt
+	url = https://github.com/vegard/drawing-prompt
