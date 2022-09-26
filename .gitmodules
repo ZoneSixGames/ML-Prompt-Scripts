@@ -31,3 +31,6 @@
 [submodule "drawing-prompt"]
 	path = drawing-prompt
 	url = https://github.com/vegard/drawing-prompt
+[submodule "RandomPromptGenerator"]
+	path = RandomPromptGenerator
+	url = https://github.com/yukidawookie/RandomPromptGenerator
