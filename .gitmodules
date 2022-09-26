@@ -22,3 +22,6 @@
 [submodule "python_prompt_generator"]
 	path = python_prompt_generator
 	url = https://github.com/Shreya-M03/python_prompt_generator
+[submodule "personalized-catchphrase-generator"]
+	path = personalized-catchphrase-generator
+	url = https://github.com/vnguye34/personalized-catchphrase-generator
